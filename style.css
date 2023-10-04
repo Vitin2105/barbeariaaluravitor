@@ -1,0 +1,56 @@
+body {
+	background-color: black;
+	background-image:url();
+}
+
+#banner {
+	width:50%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 459px;
+	color: #ffffff;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	color: White;
+	padding: 30px;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #ffffff;
+}
+
+.itens {
+	font-style: source sans pro
+}
+
+.corte{
+	background: #FFFFFF;
+	padding: 120px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagemcorte {
+	width: 50%;
+}
