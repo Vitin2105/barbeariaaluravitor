@@ -1,9 +1,14 @@
-body{background-color: gray;
+body-{font-size: 16px;
+}
     font-size: 16px;
     text-align: center:}
 
+.pricipal{background-color: gray;}
 
     .negrito{color: red;}
     
+    .beneficios{text-align: center;}
     
+    imagem-beneficio{width:100%}
+
     imagem{width: 100%;}
