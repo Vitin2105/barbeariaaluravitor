@@ -1,14 +1,19 @@
-body-{font-size: 16px;
+body{font-size: 16px;
 }
-    font-size: 16px;
-    text-align: center:}
 
-.pricipal{background-color: gray;}
+.pricipal{background-color: gray;
+    text-align: center}
 
-    .negrito{color: red;}
+    .negrito{color: red;
+    }
     
     .beneficios{text-align: center;}
     
-    imagem-beneficio{width:100%}
+    .imagem-beneficio{width:100%}
 
-    imagem{width: 100%;}
+    .imagem{width: 100%;}
+
+    .titulo{padding: 20px;}
+
+    .lista{display: inline-block;
+     vertical-align:top;}
